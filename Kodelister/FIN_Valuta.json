@@ -1,0 +1,892 @@
+[
+    {
+        "Label": "United Arab Emirates dirham - AED",
+        "Value": "AED",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Afghan afghani - AFN",
+        "Value": "AFN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Albanian lek - ALL",
+        "Value": "ALL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Armenian dram - AMD",
+        "Value": "AMD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Netherlands Antillean guilder - ANG",
+        "Value": "ANG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Angolan kwanza - AOA",
+        "Value": "AOA",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Argentine peso - ARS",
+        "Value": "ARS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Australian dollar - AUD",
+        "Value": "AUD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Aruban florin - AWG",
+        "Value": "AWG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Azerbaijani manat - AZN",
+        "Value": "AZN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bosnia and Herzegovina convertible mark - BAM",
+        "Value": "BAM",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Barbados dollar - BBD",
+        "Value": "BBD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bangladeshi taka - BDT",
+        "Value": "BDT",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bulgarian lev - BGN",
+        "Value": "BGN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bahraini dinar - BHD",
+        "Value": "BHD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Burundian franc - BIF",
+        "Value": "BIF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bermudian dollar - BMD",
+        "Value": "BMD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Brunei dollar - BND",
+        "Value": "BND",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Boliviano - BOB",
+        "Value": "BOB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bolivian Mvdol (funds code) - BOV",
+        "Value": "BOV",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Brazilian real - BRL",
+        "Value": "BRL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bahamian dollar - BSD",
+        "Value": "BSD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Bhutanese ngultrum - BTN",
+        "Value": "BTN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Botswana pula - BWP",
+        "Value": "BWP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Belarusian ruble - BYR",
+        "Value": "BYR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Belize dollar - BZD",
+        "Value": "BZD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Canadian dollar - CAD",
+        "Value": "CAD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Congolese franc - CDF",
+        "Value": "CDF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "WIR Euro (complementary currency) - CHE",
+        "Value": "CHE",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Swiss franc - CHF",
+        "Value": "CHF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "WIR Franc (complementary currency) - CHW",
+        "Value": "CHW",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Unidad de Fomento (funds code) - CLF",
+        "Value": "CLF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Chilean peso - CLP",
+        "Value": "CLP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Chinese yuan - CNY",
+        "Value": "CNY",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Colombian peso - COP",
+        "Value": "COP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Unidad de Valor Real (UVR) (funds code)[7] - COU",
+        "Value": "COU",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Costa Rican colon - CRC",
+        "Value": "CRC",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Cuban convertible peso - CUC",
+        "Value": "CUC",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Cuban peso - CUP",
+        "Value": "CUP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Cape Verde escudo - CVE",
+        "Value": "CVE",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Czech koruna - CZK",
+        "Value": "CZK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Djiboutian franc - DJF",
+        "Value": "DJF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Danish krone - DKK",
+        "Value": "DKK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Dominican peso - DOP",
+        "Value": "DOP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Algerian dinar - DZD",
+        "Value": "DZD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Egyptian pound - EGP",
+        "Value": "EGP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Eritrean nakfa - ERN",
+        "Value": "ERN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Ethiopian birr - ETB",
+        "Value": "ETB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Euro - EUR",
+        "Value": "EUR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Fiji dollar - FJD",
+        "Value": "FJD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Falkland Islands pound - FKP",
+        "Value": "FKP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Pound sterling - GBP",
+        "Value": "GBP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Georgian lari - GEL",
+        "Value": "GEL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Ghanaian cedi - GHS",
+        "Value": "GHS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Gibraltar pound - GIP",
+        "Value": "GIP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Gambian dalasi - GMD",
+        "Value": "GMD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Guinean franc - GNF",
+        "Value": "GNF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Guatemalan quetzal - GTQ",
+        "Value": "GTQ",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Guyanese dollar - GYD",
+        "Value": "GYD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Hong Kong dollar - HKD",
+        "Value": "HKD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Honduran lempira - HNL",
+        "Value": "HNL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Croatian kuna - HRK",
+        "Value": "HRK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Haitian gourde - HTG",
+        "Value": "HTG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Hungarian forint - HUF",
+        "Value": "HUF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Indonesian rupiah - IDR",
+        "Value": "IDR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Israeli new shekel - ILS",
+        "Value": "ILS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Indian rupee - INR",
+        "Value": "INR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Iraqi dinar - IQD",
+        "Value": "IQD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Iranian rial - IRR",
+        "Value": "IRR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Icelandic króna - ISK",
+        "Value": "ISK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Jamaican dollar - JMD",
+        "Value": "JMD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Jordanian dinar - JOD",
+        "Value": "JOD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Japanese yen - JPY",
+        "Value": "JPY",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Kenyan shilling - KES",
+        "Value": "KES",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Kyrgyzstani som - KGS",
+        "Value": "KGS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Cambodian riel - KHR",
+        "Value": "KHR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Comoro franc - KMF",
+        "Value": "KMF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "North Korean won - KPW",
+        "Value": "KPW",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "South Korean won - KRW",
+        "Value": "KRW",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Kuwaiti dinar - KWD",
+        "Value": "KWD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Cayman Islands dollar - KYD",
+        "Value": "KYD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Kazakhstani tenge - KZT",
+        "Value": "KZT",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Lao kip - LAK",
+        "Value": "LAK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Lebanese pound - LBP",
+        "Value": "LBP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Sri Lankan rupee - LKR",
+        "Value": "LKR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Liberian dollar - LRD",
+        "Value": "LRD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Lesotho loti - LSL",
+        "Value": "LSL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Libyan dinar - LYD",
+        "Value": "LYD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Moroccan dirham - MAD",
+        "Value": "MAD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Moldovan leu - MDL",
+        "Value": "MDL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Malagasy ariary - MGA",
+        "Value": "MGA",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Macedonian denar - MKD",
+        "Value": "MKD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Myanmar kyat - MMK",
+        "Value": "MMK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mongolian tögrög - MNT",
+        "Value": "MNT",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Macanese pataca - MOP",
+        "Value": "MOP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mauritanian ouguiya - MRO",
+        "Value": "MRO",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mauritian rupee - MUR",
+        "Value": "MUR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Maldivian rufiyaa - MVR",
+        "Value": "MVR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Malawian kwacha - MWK",
+        "Value": "MWK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mexican peso - MXN",
+        "Value": "MXN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mexican Unidad de Inversion (UDI) (funds code) - MXV",
+        "Value": "MXV",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Malaysian ringgit - MYR",
+        "Value": "MYR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Mozambican metical - MZN",
+        "Value": "MZN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Namibian dollar - NAD",
+        "Value": "NAD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Nigerian naira - NGN",
+        "Value": "NGN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Nicaraguan córdoba - NIO",
+        "Value": "NIO",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Norwegian krone - NOK",
+        "Value": "NOK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Nepalese rupee - NPR",
+        "Value": "NPR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "New Zealand dollar - NZD",
+        "Value": "NZD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Omani rial - OMR",
+        "Value": "OMR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Panamanian balboa - PAB",
+        "Value": "PAB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Peruvian Sol - PEN",
+        "Value": "PEN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Papua New Guinean kina - PGK",
+        "Value": "PGK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Philippine peso - PHP",
+        "Value": "PHP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Pakistani rupee - PKR",
+        "Value": "PKR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Polish złoty - PLN",
+        "Value": "PLN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Paraguayan guaraní - PYG",
+        "Value": "PYG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Qatari riyal - QAR",
+        "Value": "QAR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Romanian leu - RON",
+        "Value": "RON",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Serbian dinar - RSD",
+        "Value": "RSD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Russian ruble - RUB",
+        "Value": "RUB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Rwandan franc - RWF",
+        "Value": "RWF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Saudi riyal - SAR",
+        "Value": "SAR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Solomon Islands dollar - SBD",
+        "Value": "SBD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Seychelles rupee - SCR",
+        "Value": "SCR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Sudanese pound - SDG",
+        "Value": "SDG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Swedish krona/kronor - SEK",
+        "Value": "SEK",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Singapore dollar - SGD",
+        "Value": "SGD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Saint Helena pound - SHP",
+        "Value": "SHP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Sierra Leonean leone - SLL",
+        "Value": "SLL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Somali shilling - SOS",
+        "Value": "SOS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Surinamese dollar - SRD",
+        "Value": "SRD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "South Sudanese pound - SSP",
+        "Value": "SSP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "São Tomé and Príncipe dobra - STD",
+        "Value": "STD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Syrian pound - SYP",
+        "Value": "SYP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Swazi lilangeni - SZL",
+        "Value": "SZL",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Thai baht - THB",
+        "Value": "THB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Tajikistani somoni - TJS",
+        "Value": "TJS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Turkmenistani manat - TMT",
+        "Value": "TMT",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Tunisian dinar - TND",
+        "Value": "TND",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Tongan paʻanga - TOP",
+        "Value": "TOP",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Turkish lira - TRY",
+        "Value": "TRY",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Trinidad and Tobago dollar - TTD",
+        "Value": "TTD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "New Taiwan dollar - TWD",
+        "Value": "TWD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Tanzanian shilling - TZS",
+        "Value": "TZS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Ukrainian hryvnia - UAH",
+        "Value": "UAH",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Ugandan shilling - UGX",
+        "Value": "UGX",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "United States dollar - USD",
+        "Value": "USD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "United States dollar (next day) (funds code) - USN",
+        "Value": "USN",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "United States dollar (same day) (funds code)[10] - USS",
+        "Value": "USS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code) - UYI",
+        "Value": "UYI",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Uruguayan peso - UYU",
+        "Value": "UYU",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Uzbekistan som - UZS",
+        "Value": "UZS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Venezuelan bolívar - VEF",
+        "Value": "VEF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Vietnamese dong - VND",
+        "Value": "VND",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Vanuatu vatu - VUV",
+        "Value": "VUV",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Samoan tala - WST",
+        "Value": "WST",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "CFA franc BEAC - XAF",
+        "Value": "XAF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Silver (one troy ounce) - XAG",
+        "Value": "XAG",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Gold (one troy ounce) - XAU",
+        "Value": "XAU",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "European Composite Unit (EURCO) (bond market unit) - XBA",
+        "Value": "XBA",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "European Monetary Unit (E.M.U.-6) (bond market unit) - XBB",
+        "Value": "XBB",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "European Unit of Account 9 (E.U.A.-9) (bond market unit) - XBC",
+        "Value": "XBC",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "European Unit of Account 17 (E.U.A.-17) (bond market unit) - XBD",
+        "Value": "XBD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "East Caribbean dollar - XCD",
+        "Value": "XCD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Special drawing rights - XDR",
+        "Value": "XDR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "UIC franc (special settlement currency) - XFU",
+        "Value": "XFU",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "CFA franc BCEAO - XOF",
+        "Value": "XOF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Palladium (one troy ounce) - XPD",
+        "Value": "XPD",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "CFP franc (franc Pacifique) - XPF",
+        "Value": "XPF",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Platinum (one troy ounce) - XPT",
+        "Value": "XPT",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "SUCRE - XSU",
+        "Value": "XSU",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Code reserved for testing purposes - XTS",
+        "Value": "XTS",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "ADB Unit of Account - XUA",
+        "Value": "XUA",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "No currency  - XXX",
+        "Value": "XXX",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Yemeni rial - YER",
+        "Value": "YER",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "South African rand - ZAR",
+        "Value": "ZAR",
+        "Language": "English (1033)"
+    },
+    {
+        "Label": "Zambian kwacha - ZMW",
+        "Value": "ZMW",
+        "Language": "English (1033)"
+    }
+]
