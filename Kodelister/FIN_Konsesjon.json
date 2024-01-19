@@ -1,0 +1,212 @@
+[
+    {
+        "Label": "Bank",
+        "Value": "BANK",
+        "Value2": "522.321",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Betalingsforetak",
+        "Value": "BETF",
+        "Value2": "532.21",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Betalingsforetak med begrenset tillatelse",
+        "Value": "BEMEBETI",
+        "Value2": "532.21",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Depotmottaker",
+        "Value": "DEPOTNY",
+        "Value2": "462.6",
+        "Value3": "FOND",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eiendomsmeglingsforetak",
+        "Value": "EIEMGLFTK",
+        "Value2": "632.12",
+        "Value3": "EMIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "E-pengeforetak",
+        "Value": "EPENGEF",
+        "Value2": "532.21",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Finansieringsforetak",
+        "Value": "FINF",
+        "Value2": "532.21",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Finansstiftelse",
+        "Value": "FINSTIFT",
+        "Value2": "532.21",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Forsikringsmeglingsforetak",
+        "Value": "FORMGLFTK",
+        "Value2": "542.22",
+        "Value3": "BOFAT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Forvalter av alternative investeringsfond (AIFM)",
+        "Value": "FOAVALIN",
+        "Value2": "482.2",
+        "Value3": "FOND",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Forvaltningsselskap for verdipapirfond",
+        "Value": "FVLTSLSKVP",
+        "Value2": "462.21",
+        "Value3": "FOND",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Fremmedinkassoforetak",
+        "Value": "FREMINKASO",
+        "Value2": "642.2",
+        "Value3": "EMIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Gjeldsinformasjonsforetak",
+        "Value": "GJELDSINFO",
+        "Value2": "672",
+        "Value3": "EMIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Gjenforsikringsmeglingsforetak",
+        "Value": "GFORMGLFTK",
+        "Value2": "542.22",
+        "Value3": "BOFAT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Holdingforetak",
+        "Value": "FINANSKONS",
+        "Value2": "512.21",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Innskuddspensjonsforetak",
+        "Value": "INNPENF",
+        "Value2": "542.22",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Kommunal pensjonskasse mv.",
+        "Value": "KOMMPENKAS",
+        "Value2": "542.22",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Kredittforetak",
+        "Value": "KREDITTFOR",
+        "Value2": "532.21",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Livsforsikringsforetak",
+        "Value": "LIVSFORSIK",
+        "Value2": "542.22",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Oppkjøps-/egeninkassoforetak",
+        "Value": "OPPEGENINF",
+        "Value2": "642.2",
+        "Value3": "EMIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Opplysningsfullmektig",
+        "Value": "OPPLYSNING",
+        "Value2": "532.21",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Privat pensjonskasse",
+        "Value": "PRIVPENKAS",
+        "Value2": "542.22",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Skadeforsikringsforetak",
+        "Value": "SKADEFORSI",
+        "Value2": "542.22",
+        "Value3": "BOFREG",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Tilbyder av virksomhetstjenester",
+        "Value": "TILAVVIR",
+        "Value2": "662",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Vekslings- og oppbevaringstjenester for virtuell valuta",
+        "Value": "VEOGOPFOVI",
+        "Value2": "552",
+        "Value3": "HVITBET",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Verdipapirforetak",
+        "Value": "FFOR",
+        "Value2": "452.21",
+        "Value3": "VERDI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Verdipapirsentral",
+        "Value": "VERDIPAPS",
+        "Value2": "432.21",
+        "Value3": "INFRA",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Låneformidling",
+        "Value": "LFORMIDL",
+        "Value2": "532.21",
+        "Value3": "BOFAT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Markedsoperatør",
+        "Value": "MARKEDSOP",
+        "Value2": "422.21",
+        "Value3": "INFRA",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Administrator etter referanseverdiloven",
+        "Value": "ADMETTREF",
+        "Value2": "682",
+        "Value3": "INFRA",
+        "Language": "Bokmål (1044)"
+    }
+]
