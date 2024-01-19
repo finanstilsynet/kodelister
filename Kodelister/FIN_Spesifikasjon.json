@@ -1,0 +1,1164 @@
+[
+    {
+        "Label": "2. Individuell porteføljeforvaltning",
+        "Value": "Individuell_portefoljeforvaltning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Andelseiervalgt",
+        "Value": "Andelseiervalgt",
+        "Value2": "Styremedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for aktuarfunksjonen",
+        "Value": "Leder_aktuarfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 8: Drift av multilateral handelsfasilitet (MHF)",
+        "Value": "Klasse8",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 9: Drift av organisert handelsfasilitet (OHF)",
+        "Value": "Klasse9",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Annen",
+        "Value": "Annen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EGENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EGENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for aktuarfunksjonen",
+        "Value": "Leder_aktuarfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for aktuarfunksjonen",
+        "Value": "Leder_aktuarfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for aktuarfunksjonen",
+        "Value": "Leder_aktuarfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for aktuarfunksjonen",
+        "Value": "Leder_aktuarfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EGENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EGENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder_internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EGENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder_risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styreleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Andelseiervalgt",
+        "Value": "Andelseiervalgt",
+        "Value2": "Styreleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Andelseiervalgt",
+        "Value": "Andelseiervalgt",
+        "Value2": "Varamedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Verdipapirfondsforvaltning",
+        "Value": "Verdipapirfondsforvaltning",
+        "Value2": "Filialleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "2. Individuell porteføljeforvaltning",
+        "Value": "Individuell_portefoljeforvaltning",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "3. Investeringsrådgivning",
+        "Value": "Investeringsraadgivning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "3. Investeringsrådgivning",
+        "Value": "Investeringsraadgivning",
+        "Value2": "Filialleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "4. Oppbevaring og forvaltning av fondsandeler",
+        "Value": "Oppbevaring_og_forvaltning_av_fondsandeler",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "4. Oppbevaring og forvaltning av fondsandeler",
+        "Value": "Oppbevaring_og_forvaltning_av_fondsandeler",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "4. Oppbevaring og forvaltning av fondsandeler",
+        "Value": "ppbevaring_og_forvaltning_av_fondsandeler",
+        "Value2": "Filialleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Verdipapirfondsforvaltning",
+        "Value": "Verdipapirfondsforvaltning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "2. Individuell porteføljeforvaltning",
+        "Value": "Individuell_portefoljeforvaltning",
+        "Value2": "Filialleder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "2. Individuell porteføljeforvaltning",
+        "Value": "Individuell_portefoljeforvaltning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "3. Investeringsrådgivning",
+        "Value": "Investeringsraadgivning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "3. Investeringsrådgivning",
+        "Value": "Investeringsraadgivning",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "4. Oppbevaring og forvaltning av fondsandeler",
+        "Value": "Oppbevaring_og_forvaltning_av_fondsandeler",
+        "Value2": "Faktisk_leder",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "5. Mottak og formidling av ordre",
+        "Value": "Mottak_og_formidling_av_ordre",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "5. Mottak og formidling av ordre",
+        "Value": "Mottak_og_formidling_av_ordre",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Porteføljeforvaltning av AIF",
+        "Value": "Portefoljeforvaltning",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Porteføljeforvaltning av AIF",
+        "Value": "Portefoljeforvaltning",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Risikostyring av AIF",
+        "Value": "Risikostyring",
+        "Value2": "Faktisk_leder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "1. Risikostyring av AIF",
+        "Value": "Risikostyring",
+        "Value2": "Filialleder",
+        "Value3": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 1: Mottak og formidling av ordre",
+        "Value": "Klasse1",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 1: Mottak og formidling av ordre",
+        "Value": "Klasse1",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 2: Utførelse av ordre",
+        "Value": "Klasse2",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 2: Utførelse av ordre",
+        "Value": "Klasse2",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 3: Egenhandel",
+        "Value": "Klasse3",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 3: Egenhandel",
+        "Value": "Klasse3",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 4: Porteføljeforvaltning",
+        "Value": "Klasse4",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 4: Porteføljeforvaltning",
+        "Value": "Klasse4",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 5: Investeringsrådgivning",
+        "Value": "Klasse5",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 5: Investeringsrådgivning",
+        "Value": "Klasse5",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 6: Fulltegningsgar. for fin. instrumenter el. plassering av fin. instrumenter med fulltegningsgar",
+        "Value": "Klasse6",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 6: Fulltegningsgar. for fin. instrumenter el. plassering av fin. instrumenter med fulltegningsgar",
+        "Value": "Klasse6",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 7: Plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti",
+        "Value": "Klasse7",
+        "Value2": "Faktisk_leder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 7: Plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti",
+        "Value": "Klasse7",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 8: Drift av multilateral handelsfasilitet (MHF)",
+        "Value": "Klasse8",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 9: Drift av organisert handelsfasilitet (OHF)",
+        "Value": "Klasse9",
+        "Value2": "Filialleder",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 1: Mottak og formidling av ordre",
+        "Value": "Klasse1",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 2: Utførelse av ordre",
+        "Value": "Klasse2",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 3: Egenhandel",
+        "Value": "Klasse3",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 4: Porteføljeforvaltning",
+        "Value": "Klasse4",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 5: Investeringsrådgivning",
+        "Value": "Klasse5",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 6: Fulltegningsgar. for fin. instrumenter el. plassering av fin. instrumenter med fulltegningsgar",
+        "Value": "Klasse6",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 7: Plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti",
+        "Value": "Klasse7",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 8: Drift av multilateral handelsfasilitet (MHF)",
+        "Value": "Klasse8",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nr 9: Drift av organisert handelsfasilitet (OHF)",
+        "Value": "Klasse9",
+        "Value2": "Agent",
+        "Value3": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styreleder",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styreleder",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Styremedlem",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Ikke-eksternt",
+        "Value": "Ikke_eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder for compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for internrevisjonsfunksjonen",
+        "Value": "Leder for internrevisjonsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for risikostyringsfunksjonen",
+        "Value": "Leder for risikostyringsfunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevelsesansvarlig",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eksternt",
+        "Value": "Eksternt",
+        "Value2": "Varamedlem",
+        "Value3": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Leder for compliancefunksjonen",
+        "Value": "Leder_compliancefunksjonen",
+        "Value2": "Nokkelfunksjon",
+        "Value3": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    }
+]
