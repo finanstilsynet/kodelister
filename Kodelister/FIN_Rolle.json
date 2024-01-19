@@ -1,0 +1,1490 @@
+[
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Deltaker",
+        "Value": "Deltaker",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Representant for medlemmene",
+        "Value": "Representant",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Stedfortreder",
+        "Value": "Stedfortreder",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Agent",
+        "Value": "Agent",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "BANK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Agent",
+        "Value": "Agent",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Agent",
+        "Value": "Agent",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Innehaver",
+        "Value": "Innehaver",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Innehaver",
+        "Value": "Innehaver",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Nøkkelfunksjon",
+        "Value": "Nokkelfunksjon",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "DEPOTNY",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FINSTIFT",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FOAVALIN",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FVLTSLSKVP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FINANSKONS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "INNPENF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "LIVSFORSIK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "SKADEFORSI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Stedfortreder",
+        "Value": "Stedfortreder",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Stedfortreder",
+        "Value": "Stedfortreder",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Representant for medlemmene",
+        "Value": "Representant",
+        "Value2": "KOMMPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Representant for medlemmene",
+        "Value": "Representant",
+        "Value2": "PRIVPENKAS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Complianceansvarlig",
+        "Value": "Complianceansvarlig",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "FFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "KREDITTFOR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "EIEMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Forsikringsmegler",
+        "Value": "Forsikringsmegler",
+        "Value2": "FORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Forsikringsmegler",
+        "Value": "Forsikringsmegler",
+        "Value2": "GFORMGLFTK",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "FREMINKASO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskingsansvarlig",
+        "Value2": "OPPEGENINF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "OPPLYSNING",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Observatør til styret",
+        "Value": "Observator",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Stedfortreder",
+        "Value": "Stedfortreder",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Reell rettighetshaver",
+        "Value": "Reell_rettighetshaver",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Stedfortreder",
+        "Value": "Stedfortreder",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Reell rettighetshaver",
+        "Value": "Reell_rettighetshaver",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskansvarlig",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskansvarlig",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevansvarlig",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Etterlevelsesansvarlig",
+        "Value": "Etterlevansvarlig",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "BETF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "BEMEBETI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "TILAVVIR",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "VEOGOPFOVI",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Agent",
+        "Value": "Agent",
+        "Value2": "EPENGEF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Daglig leder",
+        "Value": "Daglig_leder",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Eier",
+        "Value": "Eier",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Hvitvaskingsansvarlig",
+        "Value": "Hvitvaskansvarlig",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Filialleder/Fagansvarlig for filial",
+        "Value": "Filialleder",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styreleder",
+        "Value": "Styreleder",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Styremedlem",
+        "Value": "Styremedlem",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "VERDIPAPS",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "LFORMIDL",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "MARKEDSOP",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Varamedlem",
+        "Value": "Varamedlem",
+        "Value2": "ADMETTREF",
+        "Language": "Bokmål (1044)"
+    },
+    {
+        "Label": "Faktisk leder/Fagansvarlig",
+        "Value": "Faktisk_leder",
+        "Value2": "GJELDSINFO",
+        "Language": "Bokmål (1044)"
+    }
+]
