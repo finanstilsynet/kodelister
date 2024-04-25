@@ -49,27 +49,27 @@
     },
     {
         "value": "Q1",
-        "label": "1. kvartal"
+        "label": "1\\. kvartal"
     },
     {
         "value": "Q2",
-        "label": "2. kvartal"
+        "label": "2\\. kvartal"
     },
     {
         "value": "Q3",
-        "label": "3. kvartal"
+        "label": "3\\. kvartal"
     },
     {
         "value": "Q4",
-        "label": "4. kvartal"
+        "label": "4\\. kvartal"
     },
     {
         "value": "H1",
-        "label": "1. halvår"
+        "label": "1\\. halvår"
     },
     {
         "value": "H2",
-        "label": "2. halvår"
+        "label": "2\\. halvår"
     },
     {
         "value": "Y1",
